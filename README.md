@@ -40,6 +40,7 @@ This is a modern React + TypeScript + Vite web application built for speed, clar
 
 ## 📁 Project Structure
 
+```
 adorax-website/
 ├── public/
 │ ├── adorax-logo.png
@@ -66,6 +67,7 @@ adorax-website/
 ├── tailwind.config.js
 ├── vite.config.ts
 └── README.md
+```
 
 
 ---
